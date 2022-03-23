@@ -51,7 +51,7 @@ body {
     
     width: 100%;
     height: 80px;
-    
+
     background-color: #fff;
     border-bottom: 1px solid #666;
 
@@ -74,8 +74,20 @@ body {
 .topnav button.material-icons.md-36 {
     
     position:absolute;
+    top:20px;
+    right: 60px;
+    justify-content: center;
+    color: #666;
+    background-color: #fff;
+    font-size: 36px;    
+  
+}
+
+.topnav button.material-icons.outlined {
+    
+    position:absolute;
+    top: 20px;
     left: 60px;
-    top: 60px;
     justify-content: center;
     color: #666;
     background-color: #fff;
